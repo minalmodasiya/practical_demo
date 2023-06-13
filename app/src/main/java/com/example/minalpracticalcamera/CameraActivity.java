@@ -179,6 +179,7 @@ public class CameraActivity extends AppCompatActivity{
     }
 
     private void onSuccessListener(List<Barcode> barcodes) {
+        // add comment for test
         if (barcodes.size() > 0) {
             Toast.makeText(this, barcodes.get(0).getDisplayValue(), Toast.LENGTH_SHORT)
                     .show();
