@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MinalPracticalCamera</string>
     <string name="opencamera">Go To Camera</string>
+    <string name="appwidget_text">Click Image</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget for rear camera and live location</string>
 </resources>
