@@ -3,7 +3,9 @@ package com.example.minalpracticalcamera;
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
 import android.content.Context;
+import android.os.Build;
 import android.widget.RemoteViews;
+import android.widget.Switch;
 
 /**
  * Implementation of App Widget functionality.
